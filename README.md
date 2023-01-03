@@ -44,3 +44,15 @@ chmod +x cat_rev_shell.py
 
 ![image](https://user-images.githubusercontent.com/52622597/210321021-b8faf88d-9413-44a6-8b10-c3345e8965f9.png)
 
+之后会持续更新生成的shell
+```
+java
+pwoershell
+rcat
+c
+perl
+php
+ruby
+socat
+......
+```
